@@ -111,7 +111,7 @@ Use Markdown style links in your articles to link to other websites.
 ```
 
 > **Important**
-> Make sure that you are using HTTPS links. This is very important to avoid insecure content warnings.
+> Make sure that you are using HTTPS links. This is very important to avoid unsecure content warnings.
 >
 > Also, do not use short links like `bit.ly` or `amzn.to` links. This is a security risk. Short links are [vulnerable to redirection based attacks](https://security.stackexchange.com/questions/59517/are-url-shorteners-vulnerable-due-to-open-redirects).
 >
